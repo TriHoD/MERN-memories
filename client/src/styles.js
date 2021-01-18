@@ -9,9 +9,8 @@ export default makeStyles(() => ({
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
-        background: 'rgba(225, 225, 225, 1)',
+        background: 'rgba(255, 255, 255, 0,15)',
         // 'background-color': 'rgba(255, 255, 255, 0.4)',
-        // 'backdrop-filter:': 'blur(5px)',
         // 'box-shadow': 'rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px',
     },
     heading: {
